@@ -1,2 +1,4 @@
-# advanced-encryption-and-decryption-verilog
-using Verilog 
+ One of most popular algorithm of cryptography is AES, which has data block of 16bytes and key size is variable of 128bits, 192bits and 256bits. In proposed design, AES method implemented by the use of Verilog using Xilinx ISE 14.7, which reduces operation time and clock cycles needed for encode and decode the message, if compared with implementation using VHDL. Considering the history of communication, it is not surprising that security has taken the last seat. Because implementing security mechanisms in distributed applications creates extra overheads like more memory, handshaking, more CPU time for calculating keys etc.  
+                     The main aim of this work is to provide a solution for the above stated problem with the help of Verilog code using Xilinx. In real time applications the software code takes lot of time to execute the same code again and again. But particular hardware for a repeating code reduces the execution time. So, this work provides solution to the above-mentioned real-time problem.
+             Verilog HDL is used because it is easier to explore different design options, flexibility to exchange among environments. The goal of design implementation is speed optimization, keeping other constraints as minimum as possible.
+
